@@ -4,7 +4,7 @@ I focus on developing tools that help individuals and teams work securely withou
 
 ## I specialize in:
 
-- **Security Tooling & Automation**: Building lightweight tools for vulnerability scanning, data ingestion, and report generation.
+- **Security Tooling & Automation**: Building lightweight tools for security / forensics and automation.
 - **Local-first Security Systems**: Designing solutions that run locally to ensure privacy and control over sensitive data.
 - **Cybersecurity R&D**: Exploring new ways to automate security workflows and reduce manual effort.
 
@@ -12,12 +12,12 @@ If you're working on something interesting in security, automation, or data pipe
 
 ## Projects
 
-- **ThreatMap-Infra** – Local vulnerability scanning & automated reporting system  
+- **ThreatMap-Infra** – vulnerability scanning & automated reporting system  
 - **Telegram Data Scraper** – Structured data extraction pipeline  
-- **File Encryption Monitor** – Real-time file security monitoring  
+- **File Encryption Monitor** – Local file monitoring and encryption automation
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/nitin-dahiya-9848b3258  
-- Twitter (X): https://x.com/nitin_dahiya_1?s=21  
-- Medium: https://medium.com/@nitindahiya131
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](your-link)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](your-link)
