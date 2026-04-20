@@ -1,16 +1,23 @@
-## Hi there 👋
+Building practical security tools & automation systems.
 
-<!--
-**Nitin-sec/Nitin-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on developing tools that help individuals and teams work securely without relying on external platforms or exposing sensitive data.
 
-Here are some ideas to get you started:
+## I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Security Tooling & Automation**: Building lightweight tools for vulnerability scanning, data ingestion, and report generation.
+- **Local-first Security Systems**: Designing solutions that run locally to ensure privacy and control over sensitive data.
+- **Cybersecurity R&D**: Exploring new ways to automate security workflows and reduce manual effort.
+
+If you're working on something interesting in security, automation, or data pipelines — feel free to reach out.
+
+## Projects
+
+- **ThreatMap-Infra** – Local vulnerability scanning & automated reporting system  
+- **Telegram Data Scraper** – Structured data extraction pipeline  
+- **File Encryption Monitor** – Real-time file security monitoring  
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/nitin-dahiya-9848b3258  
+- Twitter (X): https://x.com/nitin_dahiya_1?s=21  
+- Medium: https://medium.com/@nitindahiya131
