@@ -10,12 +10,6 @@ I focus on developing tools that help individuals and teams work securely withou
 
 If you're working on something interesting in security, automation, or data pipelines — feel free to reach out.
 
-## Projects
-
-- **ThreatMap-Infra** – vulnerability scanning & automated reporting system  
-- **Telegram Data Scraper** – Structured data extraction pipeline  
-- **File Encryption Monitor** – Local file monitoring and encryption automation
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-dahiya-9848b3258)
