@@ -1,19 +1,43 @@
-Building practical security tools & automation systems.
+# Nitin Dahiya
 
-I focus on developing tools that help individuals and teams work securely without relying on external platforms or exposing sensitive data.
+Cybersecurity • Security Research • DevSecOps • Infrastructure Security
 
-## I specialize in:
+Building practical security systems, automation workflows, and research-driven tooling focused on offensive security, infrastructure visibility, and operational security processes.
 
-- **Security Tooling & Automation**: Building lightweight tools for security / forensics and automation.
-- **Local-first Security Systems**: Designing solutions that run locally to ensure privacy and control over sensitive data.
-- **Cybersecurity R&D**: Exploring new ways to automate security workflows and reduce manual effort.
+---
 
-If you're working on something interesting in security, automation, or data pipelines — feel free to reach out.
+## Focus Areas
+
+- **Vulnerability Assessment & Security Research**  
+  Researching attack surfaces, vulnerability workflows, infrastructure exposure, and modern security practices.
+
+- **Security Automation & Tooling**  
+  Building lightweight security tools, automation pipelines, reporting systems, and workflow-focused utilities.
+
+- **DevSecOps & Infrastructure Security**  
+  Exploring CI/CD security, container security, cloud security practices, and secure infrastructure workflows.
+
+- **Digital Forensics & Analysis**  
+  Working with forensic workflows, artifact analysis, and automation for investigation-related processes.
+
+- **Security Operations & Visibility**  
+  Focusing on vulnerability management, scan orchestration, triage workflows, and operational security systems.
+
+---
+
+## Current Projects
+
+### ThreatMap
+Infrastructure security and vulnerability orchestration platform focused on automated reconnaissance, scan aggregation, local AI-assisted triage, and structured reporting workflows.
+
+---
+
+Focused on building practical systems that improve visibility, security operations, and vulnerability management workflows.
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-dahiya-9848b3258)
 
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nitin_dahiya_1?s=21)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nitin_dahiya_1)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nitindahiya131)
