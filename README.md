@@ -1,6 +1,6 @@
 # Nitin Dahiya
 
-Cybersecurity • Security Research • DevSecOps • Infrastructure Security
+Cybersecurity • Security Research • DevSecOps • Infrastructure Security • GRC
 
 Building practical security systems, automation workflows, and research-driven tooling focused on offensive security, infrastructure visibility, and operational security processes.
 
